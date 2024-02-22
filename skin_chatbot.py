@@ -3,7 +3,7 @@ from openai import OpenAI
 import base64 
 
 # OpenAI API 키 설정
-api_key = st.secrets["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"]
+api_key = st.secrets["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"]
 client = OpenAI(api_key=api_key)
 
 # 페이지 설정
