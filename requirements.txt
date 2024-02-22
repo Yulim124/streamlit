@@ -1,0 +1,10 @@
+streamlit==1.8.0
+streamlit_option_menu
+mysql-connector-python
+numpy
+pandas
+matplotlib
+seaborn
+pymysql
+streamlit-aggrid
+streamlit-webrtc
